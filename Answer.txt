@@ -1,0 +1,184 @@
+run:
+IFANEW:00000100
+--------------------
+PE Start At 00000100
+Signature :00004550
+Machine:014c
+Number Of Section:0007
+Time Date Stamp:4dad943b
+Pointer To Symbol Table:00000000
+Number Of Symbol:00000000
+Size Of Optional Header:00e0
+Characteristic:2102
+---------
+00e0
+Magic:010b
+MajorLinkerVersion:0a
+MinorLinkerVersion:00
+Size Of Code:0002fa00
+Size Of initialized data:0001a400
+Size Of uninitialized data:00000000
+Address of Entry Point:0001c4a5
+Base Of code:00001000
+Base of Data:00031000
+Image Base:10000000
+Section Allignment:00001000
+File Allignment:00000200
+MajorOperatingSystemVersion:0005
+MionorOperatingSystemVersion:0001
+MajorImageVersion:0000
+MinorImageVersion:0000
+MajorsubSystemVersion:0005
+MinorsubSystemVersion:0001
+win32version Value:00000000
+sizeof Image:00051000
+Size Of Header:00000400
+Check Sum:0004c096
+Subsystem:0002
+DLL characteristic:0140
+SizeOfStackreserve:00100000
+SizeOf Stack commit:00001000
+Size Of heap reserve:00100000
+Size Of heap commit:00001000
+Loaderflag:00000000
+Number of RVA and Sizes:00000010
+export
+VirtualAddress:00041330
+Size:0475
+import
+VirtualAddress:000407fc
+Size:0078
+resource
+VirtualAddress:00049000
+Size:043c
+exception
+VirtualAddress:00000000
+Size:0000
+security
+VirtualAddress:00000000
+Size:0000
+basereloc
+VirtualAddress:0004a000
+Size:3a68
+debug
+VirtualAddress:00000000
+Size:0000
+copyright
+VirtualAddress:00000000
+Size:0000
+globalptr
+VirtualAddress:00000000
+Size:0000
+tls
+VirtualAddress:0003ca90
+Size:0018
+loadconfig
+VirtualAddress:0003ca48
+Size:0040
+bound import
+VirtualAddress:00000000
+Size:0000
+IAT
+VirtualAddress:00031000
+Size:01f0
+DelayImport
+VirtualAddress:00000000
+Size:0000
+ComDescriptor
+VirtualAddress:00000000
+Size:0000
+Entries
+VirtualAddress:00000000
+Size:0000
+****SECTION TABLE CONTENT*****
+Section 1
+Name:000000747865742e
+phisical Address/Virtual Size:0002f982
+VirtualAddress:00001000
+SizeOfRowData:0002fa00
+PointerToRowData:00000400
+PointerToRelocations:00000000
+PointerToLineNumber:00000000
+NumberOfRelocations:0000
+NumberOfLineNumber:0000
+Characteristics:60000020
+Section 2
+Name:000061746164722e
+phisical Address/Virtual Size:000107a5
+VirtualAddress:00031000
+SizeOfRowData:00010800
+PointerToRowData:0002fe00
+PointerToRelocations:00000000
+PointerToLineNumber:00000000
+NumberOfRelocations:0000
+NumberOfLineNumber:0000
+Characteristics:40000040
+Section 3
+Name:000000617461642e
+phisical Address/Virtual Size:00004184
+VirtualAddress:00042000
+SizeOfRowData:00002000
+PointerToRowData:00040600
+PointerToRelocations:00000000
+PointerToLineNumber:00000000
+NumberOfRelocations:0000
+NumberOfLineNumber:0000
+Characteristics:c0000040
+Section 4
+Name:00000000736c742e
+phisical Address/Virtual Size:00000002
+VirtualAddress:00047000
+SizeOfRowData:00000200
+PointerToRowData:00042600
+PointerToRelocations:00000000
+PointerToLineNumber:00000000
+NumberOfRelocations:0000
+NumberOfLineNumber:0000
+Characteristics:c0000040
+Section 5
+Name:004749534d54532e
+phisical Address/Virtual Size:00001000
+VirtualAddress:00048000
+SizeOfRowData:00001000
+PointerToRowData:00042800
+PointerToRelocations:00000000
+PointerToLineNumber:00000000
+NumberOfRelocations:0000
+NumberOfLineNumber:0000
+Characteristics:40000040
+Section 6
+Name:000000637273722e
+phisical Address/Virtual Size:0000043c
+VirtualAddress:00049000
+SizeOfRowData:00000600
+PointerToRowData:00043800
+PointerToRelocations:00000000
+PointerToLineNumber:00000000
+NumberOfRelocations:0000
+NumberOfLineNumber:0000
+Characteristics:40000040
+Section 7
+Name:0000636f6c65722e
+phisical Address/Virtual Size:00006330
+VirtualAddress:0004a000
+SizeOfRowData:00006400
+PointerToRowData:00043e00
+PointerToRelocations:00000000
+PointerToLineNumber:00000000
+NumberOfRelocations:0000
+NumberOfLineNumber:0000
+Characteristics:42000040
+^^^^EXPORT TABLE CONTENT^^^^^
+characteristics:00000000
+timeDateStamp:4dad9437
+Major Version:0000
+Minor Version:0000
+nName:000414ac
+Nbase:00000001
+Number Of Functions:00000022
+Number Of Name:00000022
+Address Of Functions:00041358
+Address Of Names:000413e0
+Address Of Name Ordinals:00041468
+BUILD SUCCESSFUL (total time: 0 seconds)
+
